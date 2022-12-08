@@ -1,0 +1,36 @@
+h1{
+  font-size: 60px;
+  text-align: center;
+  color: white;
+}
+
+body{
+	background: black;
+
+}
+
+.img{
+	text-align: center;
+}
+
+
+
+.t1{
+ font-size: 60px ;
+ color: white;
+}
+
+.e1{
+	font-size: 40px;
+	color: white;
+}
+
+.t2{
+	color: white;
+	font-size: 60px;
+}
+
+.e2{
+	color: white;
+	font-size: 40px;
+}
